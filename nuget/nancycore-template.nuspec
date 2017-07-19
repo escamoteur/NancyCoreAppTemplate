@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>Nancy.Templates.BasicNetCoreApp</id>
+        <version>0.1</version>
+        <title>Template for a basic NancyFx .Net Core App</title>
+        <summary>install: dotnet new –install “Nancy.Templates.BasicNetCoreApp::*”</summary>
+        <description>A dotnet-new Template for a basic NancyFx .Net Core App running on Kestrel</description>
+        <authors>Thomas Burkhart</authors>
+        <owners>Thomas Burkhart</owners>
+        <projectUrl>https://github.com/escamoteur/NancyCoreApp</projectUrl>
+        <iconUrl>http://i.imgur.com/bR4Yf.jpg</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <releaseNotes></releaseNotes>
+        <language>en-GB</language>
+        <tags> web app nancyfx dotnet new template</tags>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+</package>
