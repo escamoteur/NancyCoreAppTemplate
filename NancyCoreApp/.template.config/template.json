@@ -1,0 +1,13 @@
+{
+	"author": "Thomas Burkhart",
+	"classifications": [],
+	"description": "",
+	"name": "NancyCoreApp Template for running on Kestrel",
+	"defaultName": "NancyCoreApp",
+	"tags": {
+		"language": "C#" // Specify that this template is in C#.
+	},
+	"shortName": "NancyCoreApp",
+	"sourceName": "NancyCoreApp",
+	"preferNameDirectory": "true"
+}
