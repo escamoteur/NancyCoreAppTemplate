@@ -1,6 +1,7 @@
 # NancyCoreApp Template
 
 This repository contains a basic NancyFx App running on .Net Core using Kestrel as Host.
+The project also contains the necessary files to create a `dotnet new` template and nuget.
 
 ### Installation
 To install this template use
