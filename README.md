@@ -7,7 +7,7 @@ This repository contains a `dotnet new` template for basic NancyFx App running o
 
 To install this template from nuget use
 
-`dotnet new –install Nancy.Templates.BasicNetCoreApp::*`
+`dotnet new --install Nancy.Templates.BasicNetCoreApp::*`
 
 Which will install the template into the .Net Core Template Cache
 
